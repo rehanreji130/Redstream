@@ -29,6 +29,7 @@ Before you begin, ensure you have the following installed:
     ```
     http://localhost/phpmyadmin/
     ```
+
 4️⃣  Click **New**, enter `bloodbank` as the database name, and click **Create**.
 
 5️⃣  Import the database file (`db.sql`) into phpMyAdmin:
