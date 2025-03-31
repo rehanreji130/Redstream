@@ -21,7 +21,8 @@ Before you begin, ensure you have the following installed:
 
 ### 🚀 Steps:
 
-1️⃣ Open **XAMPP Control Panel** and start **Apache** & **MySQL**.
+1️⃣ Download redstream.zip and paste the redstream folder in `htdocs` directory inside your XAMPP installation
+    Open **XAMPP Control Panel** and start **Apache** & **MySQL**.
 
 2️⃣ Open your browser and go to: 
 ```
