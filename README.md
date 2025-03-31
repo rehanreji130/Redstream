@@ -36,7 +36,7 @@ Before you begin, ensure you have the following installed:
    - Select the `bloodbank` database
    - Navigate to the **Import** tab
    - Choose `db.sql` from your project folder and click **Go**
-      ---
+---
 
 ## 🔧 Installing Dependencies
 
