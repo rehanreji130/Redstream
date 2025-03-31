@@ -21,22 +21,21 @@ Before you begin, ensure you have the following installed:
 
 ### 🚀 Steps:
 
-1️⃣ Download redstream.zip and paste the redstream folder in `htdocs` directory inside your XAMPP installation
-    Open **XAMPP Control Panel** and start **Apache** & **MySQL**.
+1️⃣ Download redstream.zip and paste the redstream folder in `htdocs` directory inside your XAMPP installation.
+   
+2️⃣ Open **XAMPP Control Panel** and start **Apache** & **MySQL**.
 
-2️⃣ Open your browser and go to: 
-```
-http://localhost/phpmyadmin/
-```
+3️⃣ Open your browser and go to: 
+    ```
+    http://localhost/phpmyadmin/
+    ```
+4️⃣  Click **New**, enter `bloodbank` as the database name, and click **Create**.
 
-3️⃣ Click **New**, enter `bloodbank` as the database name, and click **Create**.
-
-4️⃣ Import the database file (`db.sql`) into phpMyAdmin:
+5️⃣  Import the database file (`db.sql`) into phpMyAdmin:
    - Select the `bloodbank` database
    - Navigate to the **Import** tab
    - Choose `db.sql` from your project folder and click **Go**
-
----
+      ---
 
 ## 🔧 Installing Dependencies
 
@@ -44,21 +43,21 @@ Navigate to your project directory and run the following commands based on your 
 
 ### ✅ Command Prompt (CMD)
 ```cmd
-cd path\to\your\project
+cd xampp\htdocs\redstream
 composer install
 composer require twilio/sdk
 ```
 
 ### ✅ Windows PowerShell
 ```powershell
-cd "C:\path\to\your\project"
+cd " C:\xampp\htdocs\redstream>"
 composer install
 composer require twilio/sdk
 ```
 
 ### ✅ Git Bash
 ```sh
-cd /c/path/to/your/project
+cd /c/xampp\htdocs\redstream
 composer install
 composer require twilio/sdk
 ```
