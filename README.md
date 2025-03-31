@@ -78,10 +78,8 @@ Enable SMS notifications for donors and recipients using Twilio.
 
 3️⃣ Open `hospital_panel/send_sms.php` and configure the credentials:
 ```php
-require_once 'vendor/autoload.php';
-use Twilio\Rest\Client;
-$sid = 'YOUR_TWILIO_SID';
-$token = 'YOUR_TWILIO_AUTH_TOKEN';
+$account_sid = 'YOUR_TWILIO_SID';
+$auth_token = 'YOUR_TWILIO_AUTH_TOKEN';
 $twilio_number = '+1234567890'; // Your Twilio number
 ```
 
