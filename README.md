@@ -101,12 +101,65 @@ $twilio_number = '+1234567890'; // Your Twilio number
 
 3️⃣ Open your browser and go to:
 ```
-http://localhost/redstream/
+http://localhost/redstream/main_index.php
 ```
 
 4️⃣ Register **users, hospitals, and donors** to begin using the system.
 
 ---
+
+## Website screenshots
+
+# Homepage
+
+![Screenshot 2025-03-23 231242](https://github.com/user-attachments/assets/67d9ad2b-be4a-43fe-b51e-ac80c5f3f5f0)
+
+# Hospital Panel
+
+![Screenshot 2025-03-23 231309](https://github.com/user-attachments/assets/4e68e83a-d9e9-4bb1-9843-96c7c109bca8)
+
+![Screenshot 2025-03-23 231326](https://github.com/user-attachments/assets/4e3fa44e-ff97-43bc-ad76-146990e0c2b6)
+
+![Screenshot 2025-03-23 231828](https://github.com/user-attachments/assets/82beff61-ecad-4240-8aa1-8622b6b50957)
+
+![Screenshot 2025-03-23 231844](https://github.com/user-attachments/assets/7eda9a8c-df26-45fb-9f31-f639cf57cd0c)
+
+![Screenshot 2025-03-23 231854](https://github.com/user-attachments/assets/3b76a65a-f5b1-4adb-b496-795d38db80cf)
+
+![Screenshot 2025-03-31 093150](https://github.com/user-attachments/assets/9a83f4b1-8388-414e-8a34-642a99bbb85c)
+
+# Recipient Panel
+
+![Screenshot 2025-03-23 231340](https://github.com/user-attachments/assets/9610d0a7-b33e-4772-8a86-a702d8efcaa8)
+
+![Screenshot 2025-03-23 231349](https://github.com/user-attachments/assets/6f5bdbb0-6118-4201-802d-f5f346be67dc)
+
+![Screenshot 2025-03-23 232002](https://github.com/user-attachments/assets/9801ae2e-04d9-40b7-9b75-4cc93392ad06)
+
+![Screenshot 2025-03-23 232013](https://github.com/user-attachments/assets/322f60c2-741b-47ad-869d-2aa7ee6419e1)
+
+![Screenshot 2025-03-23 232047](https://github.com/user-attachments/assets/f664d3c0-1325-4fda-bcd3-ea1be3430d34)
+
+![Screenshot 2025-03-23 232115](https://github.com/user-attachments/assets/4a1ce896-f1e1-4a0b-99da-78d47c4f735e)
+
+# To access Admin Panel
+
+Open your browser and go to:
+```
+http://localhost/redstream/admin_panel/admin_login.php
+```
+
+![Screenshot 2025-03-23 232207](https://github.com/user-attachments/assets/379915e0-bcaa-4783-87a9-c37de11d7906)
+
+![Screenshot 2025-03-23 232222](https://github.com/user-attachments/assets/e08e30d3-0586-4cfd-8f85-b6add10373a6)
+
+![Screenshot 2025-03-23 232229](https://github.com/user-attachments/assets/f923c992-062b-4fac-801b-0e25ddbc0ba0)
+
+![Screenshot 2025-03-23 232237](https://github.com/user-attachments/assets/f10330ae-c56d-4e6f-9b71-5449a13377c2)
+
+![Screenshot 2025-03-23 232244](https://github.com/user-attachments/assets/8eddb270-57c9-4521-af8e-eb08e405f797)
+
+
 
 ## 🤝 Contribution
 
