@@ -18,6 +18,7 @@ Before you begin, ensure you have the following installed:
 ---
 ## 📦 Installing Composer on Windows
 If you don't have Composer installed, follow these steps:
+
 1️⃣ Download Composer:
 
 Go to https://getcomposer.org/
