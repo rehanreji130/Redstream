@@ -16,7 +16,33 @@ Before you begin, ensure you have the following installed:
 > **Note:** All components should be installed before proceeding with the setup.
 
 ---
+## 📦 Installing Composer on Windows
+If you don't have Composer installed, follow these steps:
+1️⃣ Download the Installer
 
+Visit the official Composer website
+Click on "Composer-Setup.exe" to download the Windows installer
+
+2️⃣ Run the Installation Wizard
+
+Double-click the downloaded file to launch the installer
+Follow the installation wizard instructions
+
+3️⃣ Select PHP Installation
+
+When prompted, select the PHP executable from your XAMPP installation
+Typically located at C:\xampp\php\php.exe
+
+4️⃣ Complete Installation
+
+Choose to add Composer to your system PATH (recommended)
+Complete the installation process
+
+5️⃣ Verify Installation
+
+Open Command Prompt (CMD)
+Type composer --version and press Enter
+You should see the Composer version information displayed
 ## ⚙️ Setting Up XAMPP and Database
 
 ### 🚀 Steps:
